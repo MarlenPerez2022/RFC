@@ -1,0 +1,35 @@
+María Alejandra,González,Ramírez,30/05/1992
+, GORA920530-GC4
+Laura Victoria,Rodríguez,López,25/08/1988
+, ROLA880825-GC5
+Carlos Eduardo,Pérez,Chávez,12/03/1985
+, PECC850312-GC6
+Diana Elizabeth,Sánchez,Díaz,05/04/1991
+, SAND910405-GC7
+Ricardo Antonio,Hernández,Martínez,02/07/1990
+, HERM900702-GC8
+Patricia Guadalupe,Martínez,Gómez,25/01/1980
+, MAGP800125-GC9
+Jorge Alberto,Ramírez,Gutiérrez,10/08/1987
+, RAGJ870810-GC1
+Andrea Fernanda,López,Luna,20/02/1995
+, LOFA950220-GC2
+Luisa Fernanda,Gómez,García,13/07/1993
+, GOFL930713-GC3
+Miguel Ángel,Torres,Martínez,26/09/1984
+, TOMM840926-GC4
+Ana Karen,García,Jiménez,05/12/1981
+, GAJA811205-GC5
+Manuel Alejandro,Rodríguez,Pérez,09/06/1990
+, ROPM900609-GC6
+Verónica Guadalupe,Díaz,Hernández,03/03/1988
+, DIHV880303-GC7
+Javier Alonso,Martínez,Sánchez,31/07/1982
+, MASJ820731-GC8
+Sofía Alejandra,Ramírez,Salazar,04/05/1989
+, RASA890504-GC9Marlen Citlalli,Perez,Gomez,04/12/2003
+, PEGM031204-HE6
+Marlen Citilla,Perez,Gomez,04/12/2003
+, PEGM031204-2Z3
+Len,Perez,Perez,04/01/2024
+, PEPL240104-9T3
