@@ -39,6 +39,6 @@ Este proyecto consiste en una aplicación de escritorio en Java para buscar y ve
 
 
 ### Colaboradores: 
-Marlen Citlalli Pérez Gómez
-Edith Esmeralda Pérez Martinez
+- Marlen Citlalli Pérez Gómez
+- Edith Esmeralda Pérez Martinez
 
